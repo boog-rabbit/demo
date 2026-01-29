@@ -27,3 +27,4 @@ Thumbs.db
 # MongoDB
 *.db
 *.db-journal
+config.bat
